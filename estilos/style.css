@@ -26,6 +26,7 @@ section#telefone{
     background-repeat: no-repeat;
     height: 627px;
     min-width: 311px;
+    width: 100%;
 }
     
 iframe#tela{
